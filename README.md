@@ -1,2 +1,2 @@
 # Learning-AJAX
-### setup & use
+## Setup & use
