@@ -1,3 +1,3 @@
 # Learning-AJAX
-### setup & use
+## Setup & use
 ## Contribution guide
